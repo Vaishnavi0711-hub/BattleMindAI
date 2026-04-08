@@ -1,4 +1,4 @@
-# ⚔️ BATTLE MIND AI
+#  BATTLE MIND AI
 
 A complex, multi-agent adversarial simulation platform demonstrating dual implementations of the theoretical **Minimax Algorithm** paired with pristine **Alpha-Beta Branch Pruning**.
 
