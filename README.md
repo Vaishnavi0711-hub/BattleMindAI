@@ -6,7 +6,7 @@ Algorithmic Realms seamlessly aggregates an interactive narrative adventure and 
 
 ---
 
-## 🏗️ System Architecture Overview
+##  System Architecture Overview
 
 The Node.js server acts as an algorithmic **Dungeon Master** by interpreting game-states and executing zero-sum computational searches. The platform is distinctly segmented into two phases:
 
@@ -38,7 +38,7 @@ If a player survives 3 consecutive encounters in Level 1, their exact surviving 
 
 ---
 
-## 🚀 Running The Application
+## Getting started
 
 ### 1. The Minimax Backend
 Navigate uniquely into the core `backend` folder and spawn the express server.
