@@ -1,0 +1,16 @@
+﻿{
+  "gameState": {
+    "gridSize": 10,
+    "units": [
+      { "id": "p1", "team": "player", "x": 2, "y": 3, "hp": 100, "maxHp": 100, "attack": 25, "range": 1, "type": "knight" },
+      { "id": "p2", "team": "player", "x": 2, "y": 6, "hp": 80, "maxHp": 80, "attack": 35, "range": 3, "type": "archer" },
+      { "id": "p3", "team": "player", "x": 4, "y": 5, "hp": 120, "maxHp": 120, "attack": 15, "range": 1, "type": "golem" },
+      { "id": "p4", "team": "player", "x": 1, "y": 1, "hp": 100, "maxHp": 100, "attack": 25, "range": 1, "type": "knight" },
+      { "id": "p5", "team": "player", "x": 2, "y": 1, "hp": 100, "maxHp": 100, "attack": 25, "range": 1, "type": "knight" },
+      { "id": "p6", "team": "player", "x": 3, "y": 1, "hp": 100, "maxHp": 100, "attack": 25, "range": 1, "type": "knight" },
+      { "id": "a1", "team": "ai", "x": 8, "y": 2, "hp": 120, "maxHp": 120, "attack": 15, "range": 1, "type": "tank" },
+      { "id": "a2", "team": "ai", "x": 7, "y": 5, "hp": 90, "maxHp": 90, "attack": 30, "range": 2, "type": "mage" },
+      { "id": "a3", "team": "ai", "x": 8, "y": 8, "hp": 70, "maxHp": 70, "attack": 40, "range": 3, "type": "sniper" }
+    ]
+  }
+}
